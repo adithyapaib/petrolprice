@@ -1,0 +1,29 @@
+{
+  "name": "api.adithyapai.com",
+  "version": "1.0.0",
+  "description": "\"An api Api for Adithya Pai B\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyapaib/api.adithyapai.com.git"
+  },
+  "keywords": [
+    "API",
+    "RESTAPI",
+    "SERVERLESS"
+  ],
+  "author": "Adithya pai B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adithyapaib/api.adithyapai.com/issues"
+  },
+  "homepage": "https://github.com/adithyapaib/api.adithyapai.com#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
