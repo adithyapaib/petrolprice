@@ -1,1 +1,1 @@
-# api.adithyapai.com
+# https://petrolprice.vercel.app/
